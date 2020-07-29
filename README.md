@@ -1,3 +1,3 @@
 # Full-Designed-Calculator
 
-It was Html / CSS / Javascript
+I only use Html / CSS / Javascript
